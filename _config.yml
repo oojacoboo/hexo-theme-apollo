@@ -1,26 +1,25 @@
 menu:
-    Blog: /
     Archive: /archives/
-    Weibo: http://weibo.com/sunchongsheng
-    GitHub: https://github.com/pinggod
-    Rss: /atom.xml
+    Photography: https://www.flickr.com/jacobthomason
+    About: /about/
 
-favicon: /favicon.png
-logo: /favicon.png
+favicon: /favicon.ico
+favicons: /favicon.icns
+logo: /images/logo.png
 
 # Comment
 # e.g disqus: seansun
-disqus:
-duoshuo: 
+disqus: jacobt
+duoshuo:
 
 # Analytics
 # google-analytics:
-ga: UA-65933410-1
+ga: UA-489149-6
 
 # Copyright Infomation
-startyear: 2015
+startyear: 2013
 
 # Font CDN
 #true : use google fonts api, not stable for chinese visitor sometimes, caused by force majeure factor
 #false: use useso fonts api instead of google's, great response speed for chinese visitor
-googlefonts: false
+googlefonts: true
